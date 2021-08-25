@@ -1,3 +1,4 @@
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/kgoebber/python_for_ESS/HEAD)
 # MET 290: Introduction to Python for Earth Systems Science
 Introduction to Python for Earth Systems Sciences
 
