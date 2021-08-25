@@ -1,0 +1,19 @@
+name: main
+channels:
+  - conda-forge
+dependencies:
+  - python=3
+  - arm_pyart
+  - numpy
+  - matplotlib
+  - siphon
+  - xarray
+  - netCDF4
+  - metpy
+  - cartopy
+  - pint
+  - pandas
+  - geopandas
+  - eofs
+  - jupyterlab
+  - pip
